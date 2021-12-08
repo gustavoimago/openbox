@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/gustavo/pictures/wallpapers/sea_horizon_dark_128627_1920x1200.jpg' 

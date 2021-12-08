@@ -1,0 +1,46 @@
+Sxiv.background: #2E3440
+Sxiv.foreground: #999999
+Sxiv.font: DejaVu Sans Mono:pixelsize=10
+
+! normal settings
+Xft.dpi:        96  
+Xft.antialias:  true
+Xft.rgba:       rgb 
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+
+! urxvt settings
+URxvt.depth: 32
+URxvt.geometry: 110x25+180+200
+URxvt.scrollBar:False
+URxvt.saveLines:3000
+URxvt.preeditType:Root
+URxvt.internalBorder: 24
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+URxvt.perl-ext-common: matcher
+URxvt.font:xft:DejaVu Sans Mono:pixelsize=13:antialias=true
+URxvt.boldFont:xft:DejaVu Sans Mono:pixelsize=13:Bold:antialias=true
+
+URxvt.foreground: #D8DEE9
+URxvt.background: [75]#2E3440
+URxvt.cursorColor: #D8DEE9
+!*fading: 35
+!*fadeColor: #4C566A
+
+URxvt.color0: #2E3440
+URxvt.color1: #BF616A
+URxvt.color2: #A3BE8C
+URxvt.color3: #EBCB8B
+URxvt.color4: #81A1C1
+URxvt.color5: #B48EAD
+URxvt.color6: #88C0D0
+URxvt.color7: #E5E9F0
+URxvt.color8: #4C566A
+URxvt.color9: #BF616A
+URxvt.color10: #A3BE8C
+URxvt.color11: #EBCB8B
+URxvt.color12: #81A1C1
+URxvt.color13: #B48EAD
+URxvt.color14: #8FBCBB
+URxvt.color15: #ECEFF4
